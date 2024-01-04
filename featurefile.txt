@@ -1,1 +1,2 @@
 Added new file on feature branch 
+Modified file again to check commit is reflected in jira
